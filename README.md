@@ -53,16 +53,7 @@ Inquirer is easiest to use when installed with npm:  ``` npm install inquirer ``
 ## License
 This application is rendered under MIT
 
-## Contributors
-To contribute to Team_profile_generator, clone this repo locally and commit your code on a separate branch.
-  
-Contributors:
 
-<a href="https://github.com/torrian7/teamprofilegenerator/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=torrian7/teamprofilegenerator" />
-</a>
-
-Made with [contributors-img](https://contrib.rocks).
 
 ## Tests
 ![GitHub license](https://img.shields.io/badge/test-100%25-success)
